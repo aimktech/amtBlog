@@ -12,6 +12,10 @@ List of published materials:
 +============+============================+=================+
 | 2020-02-27 | Cryptography with Python   | `py-crypto`_    |
 +------------+----------------------------+-----------------+
+| 2020-03-12 | The dreadful GIL           | `py-gil`_       |
++------------+----------------------------+-----------------+
+| 2020-04-21 | Two factor authentication  | `py-totp`_      |
++------------+----------------------------+-----------------+
 
 
 
@@ -25,3 +29,5 @@ This package is released under the Apache License 2.0. See the bundled
 .. _LICENSE: https://github.com/aimktech/amtBlog/blob/master/LICENSE.txt
 
 .. _py-crypto: https://github.com/aimktech/amtBlog/tree/master/py-crypto
+.. _py-gil: https://github.com/aimktech/amtBlog/tree/master/py-gil
+.. _py-totp: https://github.com/aimktech/amtBlog/tree/master/py-totp
