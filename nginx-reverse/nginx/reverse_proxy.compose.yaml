@@ -1,0 +1,14 @@
+version: "2"
+
+services:
+  reverse_proxy:
+    restart: always
+    container_name: reverse_proxy
+    image: nginx:latest
+    volumes:
+      - ../conf:/etc/nginx:ro
+      - ../logs:/var/log/nginx
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 443:443
