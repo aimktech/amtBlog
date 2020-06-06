@@ -1,0 +1,7 @@
+# no credentials in repository
+**/*.pem
+**/*.key
+**/*.cert
+**/*.csr
+**/*.pfx
+**/*.srl
