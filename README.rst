@@ -18,6 +18,8 @@ List of published materials:
 +------------+----------------------------+------------------+
 | 2020-06-06 | NGinx Reverse Proxy        | `nginx-reverse`_ |
 +------------+----------------------------+------------------+
+| 2020-11-21 | Multicast Video Streaming  | `multicast`_     |
++------------+----------------------------+------------------+
 
 
 License
@@ -33,3 +35,4 @@ This package is released under the Apache License 2.0. See the bundled
 .. _py-gil: https://github.com/aimktech/amtBlog/tree/master/py-gil
 .. _py-totp: https://github.com/aimktech/amtBlog/tree/master/py-totp
 .. _nginx-reverse: https://github.com/aimktech/amtBlog/tree/master/nginx-reverse
+.. _multicast: https://github.com/aimktech/amtBlog/tree/master/multicast
